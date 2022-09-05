@@ -17,3 +17,6 @@ E = exit
 The border of the map must be made up of walls, there can only be x1 players and x1 exit. All collectables must be picked up before player can exit the game.  
 ## Images
 All images were created by me in Adobe Photoshop and converted from PNG to XPM files 
+
+## Results  
+Succeeded with 100%
